@@ -1,0 +1,25 @@
+#root{
+    
+    height:100vh;
+}
+.container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+    
+    
+}
+#item{
+    
+    padding:5px;
+    margin:5px;
+    
+    border:5px solid black;
+    background-color: cyan;
+    
+}
+img{
+    width:100%;
+    height: 80%;
+    
+}
